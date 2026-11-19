@@ -14,6 +14,7 @@
 | [Church WhatsApp + SMS follow-up](https://github.com/autominds-ai/church-whatsapp-sms-followup) | Google Apps Script system: weekly personal follow-up, delivery tracking |
 | [Program SMS + QR check-in](https://github.com/autominds-ai/program-sms-reminders-checkin) | Timed reminders, RSVP links, check-in web app |
 | [Website lead capture → Sheets → Brevo](https://github.com/autominds-ai/website-lead-capture-sheets-brevo) | Live lead system with source tracking and email follow-up |
+| [Gospel artist website](https://github.com/autominds-ai/gospel-artist-website) | WordPress + Elementor: event booking, Brevo newsletter, press kit |
 | [AI Crypto Market Monitor](https://github.com/Erikansammy/AI-Crypto-Market-Monitor-Automation-Workflow-with-Make.com-) | Make.com + API monitoring, Google Sheets logging, Telegram alerts, dashboard |
 | [Stop Doing It Manually guide](https://github.com/autominds-ai/stop-doing-it-manually-guide) | 5 tasks every business should automate first |
 | [All AutoMinds projects →](https://github.com/autominds-ai) | Client case studies (names kept private) |
